@@ -1,0 +1,13 @@
+Idenify everything need for react calulator 
+
+- what is on the caluclator that need to build? 
+
+1. screen 
+2. operator buttons x 4 (/ + - *)
+3. clear button (AC)
+4. equals button 
+5. number buttons x 11 (1, 2, 3, 4, 5, 6, 7, 8, 9, 0)
+
+React Components 
+1. Screen 
+2. button x 17 
